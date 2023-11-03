@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950351946980",
+    "project_id": "chatapp-d37e0",
+    "storage_bucket": "chatapp-d37e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950351946980:android:82f879d041f395fe6d38f1",
+        "android_client_info": {
+          "package_name": "com.cheezycode.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPi6QNq8PJwBLUmGhAYdCVa5VMtxjnKuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
