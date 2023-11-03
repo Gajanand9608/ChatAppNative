@@ -177,7 +177,7 @@ class MainActivity : AppCompatActivity() {
                 usersRef.document().set(user).addOnSuccessListener {
                     Toast.makeText(
                         this@MainActivity,
-                        "Account createddddddddd",
+                        "Account createddddddddfdsfsdfsddd",
                         Toast.LENGTH_LONG
                     ).show()
                     sendToAct()
